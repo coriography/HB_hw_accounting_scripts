@@ -21,3 +21,25 @@ melon_seedlessness = {
     4: False,
     5: False,
 }
+
+melons = {
+    'Honeydew': {
+        'price': 0.99,
+        'seedlessness': True,
+        'flesh_color': None,
+        'rind_color': None,
+        'weight': None
+    },
+    'Crenshaw': {
+
+    },
+    'Crane': {
+
+    },
+    'Casaba': {
+
+    },
+    'Cantaloupe': {
+
+    }
+}
